@@ -1,17 +1,47 @@
 [
   {
     "item": {
-      "value": "Q548108",
-      "label": "Juho Sunila"
+      "value": "Q209439",
+      "label": "Pehr Evind Svinhufvud"
     },
-    "statement": "Q548108$EC2F9D7D-FA90-472E-BF3D-7D6F59976078"
+    "replacedBy": {
+      "value": "Q202171",
+      "label": "Juho Kusti Paasikivi"
+    },
+    "start": {
+      "value": "1917-11-27T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1918-05-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q209439$29215E9A-9B91-4E39-AEDC-19DFD2B5E88A",
+    "cabinet": "Q1888842"
   },
   {
     "item": {
-      "value": "Q728501",
-      "label": "Sakari Tuomioja"
+      "value": "Q202171",
+      "label": "Juho Kusti Paasikivi"
     },
-    "statement": "Q728501$DE5AE275-6322-430B-8FDF-A03043ED4591"
+    "replaces": {
+      "value": "Q209439",
+      "label": "Pehr Evind Svinhufvud"
+    },
+    "replacedBy": {
+      "value": "Q440166",
+      "label": "Lauri Ingman"
+    },
+    "start": {
+      "value": "1918-05-27T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1918-11-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q202171$71CEB0F3-8991-454A-A794-641052939155",
+    "cabinet": "Q1291664"
   },
   {
     "item": {
@@ -58,7 +88,8 @@
       "value": "1919-08-15T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q471286$F9EB711F-0D5A-4A8F-9AFB-30E2476DFE1F"
+    "statement": "Q471286$F9EB711F-0D5A-4A8F-9AFB-30E2476DFE1F",
+    "cabinet": "Q1628905"
   },
   {
     "item": {
@@ -86,31 +117,16 @@
   },
   {
     "item": {
+      "value": "Q959002",
+      "label": "Rafael Erich"
+    },
+    "replaces": {
       "value": "Q471237",
       "label": "Juho Vennola"
     },
-    "replaces": {
-      "value": "Q471286",
-      "label": "Kaarlo Castrén"
-    },
     "replacedBy": {
-      "value": "Q959002",
-      "label": "Rafael Erich"
-    },
-    "start": {
-      "value": "1919-08-15T00:00:00Z",
-      "precision": "11"
-    },
-    "end": {
-      "value": "1920-05-15T00:00:00Z",
-      "precision": "11"
-    },
-    "statement": "Q471237$1BE2B6B9-F671-404A-9D0D-B88653CDEC10"
-  },
-  {
-    "item": {
-      "value": "Q959002",
-      "label": "Rafael Erich"
+      "value": "Q471237",
+      "label": "Juho Vennola"
     },
     "start": {
       "value": "1920-03-15T00:00:00Z",
@@ -120,7 +136,8 @@
       "value": "1921-04-09T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q959002$58976AC0-7D9D-4257-8059-103FD55FEDEC"
+    "statement": "Q959002$58976AC0-7D9D-4257-8059-103FD55FEDEC",
+    "cabinet": "Q1326909"
   },
   {
     "item": {
@@ -167,7 +184,8 @@
       "value": "1922-11-14T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q319444$1666877A-206C-4528-A71B-7CA68C381E56"
+    "statement": "Q319444$1666877A-206C-4528-A71B-7CA68C381E56",
+    "cabinet": "Q4357129"
   },
   {
     "item": {
@@ -192,6 +210,30 @@
     },
     "statement": "Q209441$7b999c91-43ee-11d4-f6ae-b44682c224c1",
     "cabinet": "Q6452994"
+  },
+  {
+    "item": {
+      "value": "Q319444",
+      "label": "Aimo Cajander"
+    },
+    "replaces": {
+      "value": "Q209441",
+      "label": "Kyösti Kallio"
+    },
+    "replacedBy": {
+      "value": "Q440166",
+      "label": "Lauri Ingman"
+    },
+    "start": {
+      "value": "1924-01-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1924-05-31T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q319444$6BF5D497-08C9-47F4-81E5-0FB31B42DEF8",
+    "cabinet": "Q4357154"
   },
   {
     "item": {
@@ -231,7 +273,7 @@
       "label": "Kyösti Kallio"
     },
     "start": {
-      "value": "1925-03-30T00:00:00Z",
+      "value": "1925-03-31T00:00:00Z",
       "precision": "11"
     },
     "end": {
@@ -292,6 +334,54 @@
   },
   {
     "item": {
+      "value": "Q548108",
+      "label": "Juho Sunila"
+    },
+    "replaces": {
+      "value": "Q116190",
+      "label": "Väinö Tanner"
+    },
+    "replacedBy": {
+      "value": "Q675250",
+      "label": "Oskari Mantere"
+    },
+    "start": {
+      "value": "1927-12-17T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1928-12-22T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q548108$8D0D5BBD-CE35-42C2-B2D0-1FEBCBDE3CA9",
+    "cabinet": "Q6305146"
+  },
+  {
+    "item": {
+      "value": "Q675250",
+      "label": "Oskari Mantere"
+    },
+    "replaces": {
+      "value": "Q548108",
+      "label": "Juho Sunila"
+    },
+    "replacedBy": {
+      "value": "Q209441",
+      "label": "Kyösti Kallio"
+    },
+    "start": {
+      "value": "1928-12-22T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1929-08-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q675250$198660B4-B394-46C2-B6E5-B77F19150BBB",
+    "cabinet": "Q4357539"
+  },
+  {
+    "item": {
       "value": "Q209441",
       "label": "Kyösti Kallio"
     },
@@ -340,6 +430,30 @@
   },
   {
     "item": {
+      "value": "Q548108",
+      "label": "Juho Sunila"
+    },
+    "replaces": {
+      "value": "Q209439",
+      "label": "Pehr Evind Svinhufvud"
+    },
+    "replacedBy": {
+      "value": "Q455716",
+      "label": "Toivo Mikael Kivimäki"
+    },
+    "start": {
+      "value": "1931-03-21T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1932-12-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q548108$E5640784-BCAF-4841-A6A6-247AFF337190",
+    "cabinet": "Q6305147"
+  },
+  {
+    "item": {
       "value": "Q455716",
       "label": "Toivo Mikael Kivimäki"
     },
@@ -359,7 +473,8 @@
       "value": "1936-10-07T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q455716$CA4D3F93-0B60-480B-B87E-39D0E4DCF41C"
+    "statement": "Q455716$CA4D3F93-0B60-480B-B87E-39D0E4DCF41C",
+    "cabinet": "Q7813408"
   },
   {
     "item": {
@@ -387,6 +502,30 @@
   },
   {
     "item": {
+      "value": "Q319444",
+      "label": "Aimo Cajander"
+    },
+    "replaces": {
+      "value": "Q209441",
+      "label": "Kyösti Kallio"
+    },
+    "replacedBy": {
+      "value": "Q209435",
+      "label": "Risto Ryti"
+    },
+    "start": {
+      "value": "1937-03-12T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1939-12-01T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q319444$BF6ACA3C-C599-4F85-8769-1CD4C59C2AF8",
+    "cabinet": "Q4412225"
+  },
+  {
+    "item": {
       "value": "Q209435",
       "label": "Risto Ryti"
     },
@@ -406,7 +545,32 @@
       "value": "1940-12-19T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q209435$1B2F50ED-767A-4EE2-8518-584D9BD9143C"
+    "statement": "Q209435$1B2F50ED-767A-4EE2-8518-584D9BD9143C",
+    "cabinet": "Q4357416"
+  },
+  {
+    "item": {
+      "value": "Q728861",
+      "label": "Johan Wilhelm Rangell"
+    },
+    "replaces": {
+      "value": "Q209435",
+      "label": "Risto Ryti"
+    },
+    "replacedBy": {
+      "value": "Q383591",
+      "label": "Edwin Linkomies"
+    },
+    "start": {
+      "value": "1941-01-03T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1943-03-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q728861$AC9D52F7-3B93-4369-8708-DDA3DC169ADF",
+    "cabinet": "Q4410576"
   },
   {
     "item": {
@@ -430,7 +594,56 @@
       "precision": "11"
     },
     "statement": "Q383591$6C0E5893-2C47-4B41-AA55-B4576AB75B20",
-    "ordinal": "25"
+    "ordinal": "25",
+    "cabinet": "Q4357269"
+  },
+  {
+    "item": {
+      "value": "Q609638",
+      "label": "Antti Hackzell"
+    },
+    "replaces": {
+      "value": "Q383591",
+      "label": "Edwin Linkomies"
+    },
+    "replacedBy": {
+      "value": "Q1371055",
+      "label": "Urho Castrén"
+    },
+    "start": {
+      "value": "1944-08-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1944-09-21T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q609638$618F6D51-E380-4AA7-9052-8A4704464576",
+    "cabinet": "Q4357427"
+  },
+  {
+    "item": {
+      "value": "Q1371055",
+      "label": "Urho Castrén"
+    },
+    "replaces": {
+      "value": "Q609638",
+      "label": "Antti Hackzell"
+    },
+    "replacedBy": {
+      "value": "Q202171",
+      "label": "Juho Kusti Paasikivi"
+    },
+    "start": {
+      "value": "1944-09-21T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1944-11-17T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1371055$A7B10CCC-A389-47E8-95E9-0CB9472B5784",
+    "cabinet": "Q4357261"
   },
   {
     "item": {
@@ -453,7 +666,8 @@
       "value": "1946-03-09T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q202171$E6328598-7806-4BFE-91A0-05096366EE8A"
+    "statement": "Q202171$E6328598-7806-4BFE-91A0-05096366EE8A",
+    "cabinet": "Q1330769"
   },
   {
     "item": {
@@ -476,7 +690,104 @@
       "value": "1948-07-29T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q471245$A0B6CE92-AD6F-4D39-9112-09D45F2956B6"
+    "statement": "Q471245$A0B6CE92-AD6F-4D39-9112-09D45F2956B6",
+    "cabinet": "Q1330759"
+  },
+  {
+    "item": {
+      "value": "Q471307",
+      "label": "Karl-August Fagerholm"
+    },
+    "replaces": {
+      "value": "Q471245",
+      "label": "Mauno Pekkala"
+    },
+    "replacedBy": {
+      "value": "Q179858",
+      "label": "Urho Kekkonen"
+    },
+    "start": {
+      "value": "1948-07-29T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1950-03-17T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q471307$A4191E0C-EE2F-46B9-BF5E-1CF99913DF10",
+    "cabinet": "Q1336615"
+  },
+  {
+    "item": {
+      "value": "Q179858",
+      "label": "Urho Kekkonen"
+    },
+    "replaces": {
+      "value": "Q471307",
+      "label": "Karl-August Fagerholm"
+    },
+    "replacedBy": {
+      "value": "Q728501",
+      "label": "Sakari Tuomioja"
+    },
+    "start": {
+      "value": "1950-03-17T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1953-11-17T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q179858$21EFAD8C-3F60-42EF-A015-EBF93E7B7865",
+    "cabinet": "Q1225824"
+  },
+  {
+    "item": {
+      "value": "Q728501",
+      "label": "Sakari Tuomioja"
+    },
+    "replaces": {
+      "value": "Q179858",
+      "label": "Urho Kekkonen"
+    },
+    "replacedBy": {
+      "value": "Q728830",
+      "label": "Ralf Törngren"
+    },
+    "start": {
+      "value": "1953-11-17T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1953-11-17T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q728501$DE5AE275-6322-430B-8FDF-A03043ED4591",
+    "cabinet": "Q1336721"
+  },
+  {
+    "item": {
+      "value": "Q728830",
+      "label": "Ralf Törngren"
+    },
+    "replaces": {
+      "value": "Q728501",
+      "label": "Sakari Tuomioja"
+    },
+    "replacedBy": {
+      "value": "Q179858",
+      "label": "Urho Kekkonen"
+    },
+    "start": {
+      "value": "1954-05-05T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1954-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q728830$D916BDCC-9053-44F9-A670-E7AA0559E4C4",
+    "cabinet": "Q1336634"
   },
   {
     "item": {
@@ -499,7 +810,104 @@
       "value": "1956-03-03T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q179858$D4CDAD07-F614-4A0F-AF35-790B99656D20"
+    "statement": "Q179858$D4CDAD07-F614-4A0F-AF35-790B99656D20",
+    "cabinet": "Q1338746"
+  },
+  {
+    "item": {
+      "value": "Q471307",
+      "label": "Karl-August Fagerholm"
+    },
+    "replaces": {
+      "value": "Q179858",
+      "label": "Urho Kekkonen"
+    },
+    "replacedBy": {
+      "value": "Q708371",
+      "label": "V. J. Sukselainen"
+    },
+    "start": {
+      "value": "1956-03-03T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1957-05-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q471307$C1A30381-5742-4A0A-A12B-F0704FC4A1DD",
+    "cabinet": "Q1338757"
+  },
+  {
+    "item": {
+      "value": "Q708371",
+      "label": "V. J. Sukselainen"
+    },
+    "replaces": {
+      "value": "Q471307",
+      "label": "Karl-August Fagerholm"
+    },
+    "replacedBy": {
+      "value": "Q824517",
+      "label": "Rainer von Fieandt"
+    },
+    "start": {
+      "value": "1957-05-27T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1957-11-29T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q708371$96FCE2F3-CAC7-4589-A2CE-249F03AF14EC",
+    "cabinet": "Q1112382"
+  },
+  {
+    "item": {
+      "value": "Q824517",
+      "label": "Rainer von Fieandt"
+    },
+    "replaces": {
+      "value": "Q708371",
+      "label": "V. J. Sukselainen"
+    },
+    "replacedBy": {
+      "value": "Q708302",
+      "label": "Reino Kuuskoski"
+    },
+    "start": {
+      "value": "1957-11-29T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1958-04-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q824517$7D928CEE-8BFC-488D-9162-D272917BD827",
+    "cabinet": "Q1350651"
+  },
+  {
+    "item": {
+      "value": "Q708302",
+      "label": "Reino Kuuskoski"
+    },
+    "replaces": {
+      "value": "Q824517",
+      "label": "Rainer von Fieandt"
+    },
+    "replacedBy": {
+      "value": "Q471307",
+      "label": "Karl-August Fagerholm"
+    },
+    "start": {
+      "value": "1958-04-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1958-08-29T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q708302$D4DB6771-F165-4B02-BE73-9674CAE60683",
+    "cabinet": "Q1351242"
   },
   {
     "item": {
@@ -522,7 +930,32 @@
       "value": "1959-01-13T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q471307$CCC8D065-3C99-4E0D-A316-C3DB705BBCD3"
+    "statement": "Q471307$CCC8D065-3C99-4E0D-A316-C3DB705BBCD3",
+    "cabinet": "Q6304290"
+  },
+  {
+    "item": {
+      "value": "Q708371",
+      "label": "V. J. Sukselainen"
+    },
+    "replaces": {
+      "value": "Q471307",
+      "label": "Karl-August Fagerholm"
+    },
+    "replacedBy": {
+      "value": "Q471269",
+      "label": "Martti Miettunen"
+    },
+    "start": {
+      "value": "1959-01-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1961-07-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q708371$FFBEF1CC-73D0-4DCA-BFCC-7654811C635A",
+    "cabinet": "Q6304440"
   },
   {
     "item": {
@@ -553,6 +986,14 @@
       "value": "Q402977",
       "label": "Ahti Karjalainen"
     },
+    "replaces": {
+      "value": "Q471269",
+      "label": "Martti Miettunen"
+    },
+    "replacedBy": {
+      "value": "Q1370901",
+      "label": "Reino Ragnar Lehto"
+    },
     "start": {
       "value": "1962-04-13T00:00:00Z",
       "precision": "11"
@@ -561,7 +1002,8 @@
       "value": "1963-12-18T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q402977$DFB48585-BC52-4FA8-BF0D-12922A3236B0"
+    "statement": "Q402977$DFB48585-BC52-4FA8-BF0D-12922A3236B0",
+    "cabinet": "Q4696388"
   },
   {
     "item": {
@@ -633,7 +1075,8 @@
       "value": "1968-03-22T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q449414$1229C442-445B-4452-82F3-D57D13D0AADF"
+    "statement": "Q449414$1229C442-445B-4452-82F3-D57D13D0AADF",
+    "cabinet": "Q10650451"
   },
   {
     "item": {
@@ -656,7 +1099,8 @@
       "value": "1970-05-14T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q29021$684e294d-4f00-cf7d-dad2-3d683ff0545b"
+    "statement": "Q29021$684e294d-4f00-cf7d-dad2-3d683ff0545b",
+    "cabinet": "Q3374582"
   },
   {
     "item": {
@@ -672,11 +1116,11 @@
       "label": "Ahti Karjalainen"
     },
     "start": {
-      "value": "1970-06-14T00:00:00Z",
+      "value": "1970-05-14T00:00:00Z",
       "precision": "11"
     },
     "end": {
-      "value": "1970-08-15T00:00:00Z",
+      "value": "1970-07-15T00:00:00Z",
       "precision": "11"
     },
     "statement": "Q699071$52B07930-588B-4E0C-99AD-E2E28BC140F2",
@@ -687,6 +1131,14 @@
       "value": "Q402977",
       "label": "Ahti Karjalainen"
     },
+    "replaces": {
+      "value": "Q699071",
+      "label": "Teuvo Aura"
+    },
+    "replacedBy": {
+      "value": "Q699071",
+      "label": "Teuvo Aura"
+    },
     "start": {
       "value": "1970-07-15T00:00:00Z",
       "precision": "11"
@@ -695,7 +1147,8 @@
       "value": "1971-10-29T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q402977$021dc182-44cd-79db-e470-7192eb46d507"
+    "statement": "Q402977$021dc182-44cd-79db-e470-7192eb46d507",
+    "cabinet": "Q25341504"
   },
   {
     "item": {
@@ -742,7 +1195,32 @@
       "value": "1972-09-04T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q449414$4040feb9-4ff6-4afb-9276-bf401a654b6b"
+    "statement": "Q449414$4040feb9-4ff6-4afb-9276-bf401a654b6b",
+    "cabinet": "Q10650452"
+  },
+  {
+    "item": {
+      "value": "Q351710",
+      "label": "Kalevi Sorsa"
+    },
+    "replaces": {
+      "value": "Q449414",
+      "label": "Rafael Paasio"
+    },
+    "replacedBy": {
+      "value": "Q1397964",
+      "label": "Keijo Liinamaa"
+    },
+    "start": {
+      "value": "1972-09-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1975-06-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q351710$DE9D2BDE-975A-4C3D-9E19-772E8D51D3BA",
+    "cabinet": "Q10650462"
   },
   {
     "item": {
@@ -777,6 +1255,10 @@
       "value": "Q1397964",
       "label": "Keijo Liinamaa"
     },
+    "replacedBy": {
+      "value": "Q471269",
+      "label": "Martti Miettunen"
+    },
     "start": {
       "value": "1975-11-30T00:00:00Z",
       "precision": "11"
@@ -790,6 +1272,10 @@
   },
   {
     "item": {
+      "value": "Q471269",
+      "label": "Martti Miettunen"
+    },
+    "replaces": {
       "value": "Q471269",
       "label": "Martti Miettunen"
     },
@@ -807,6 +1293,30 @@
     },
     "statement": "Q471269$e7a19e8b-4bf0-3052-9a9a-052b98ee6f66",
     "cabinet": "Q10650449"
+  },
+  {
+    "item": {
+      "value": "Q351710",
+      "label": "Kalevi Sorsa"
+    },
+    "replaces": {
+      "value": "Q471269",
+      "label": "Martti Miettunen"
+    },
+    "replacedBy": {
+      "value": "Q29021",
+      "label": "Mauno Koivisto"
+    },
+    "start": {
+      "value": "1977-05-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-04-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q351710$F384D135-09A4-42E8-B5DA-4D9DAC5F722D",
+    "cabinet": "Q10650461"
   },
   {
     "item": {
@@ -829,7 +1339,8 @@
       "value": "1982-01-26T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q29021$F7DA6C68-3D68-4953-8865-2244E9B279F3"
+    "statement": "Q29021$F7DA6C68-3D68-4953-8865-2244E9B279F3",
+    "cabinet": "Q10650440"
   },
   {
     "item": {
@@ -852,7 +1363,8 @@
       "value": "1987-04-30T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q351710$EC2B16BA-B2D8-4550-BA4C-ECC4F9B385D2"
+    "statement": "Q351710$EC2B16BA-B2D8-4550-BA4C-ECC4F9B385D2",
+    "cabinet": "Q10650464"
   },
   {
     "item": {
@@ -989,7 +1501,7 @@
       "label": "Mari Kiviniemi"
     },
     "start": {
-      "value": "2003-06-23T00:00:00Z",
+      "value": "2003-06-24T00:00:00Z",
       "precision": "11"
     },
     "end": {
@@ -997,7 +1509,8 @@
       "precision": "11"
     },
     "statement": "Q182043$51DCBF63-BC80-42EE-8DE4-9B8120E82C77",
-    "ordinal": "40"
+    "ordinal": "40",
+    "cabinet": "Q81988"
   },
   {
     "item": {
@@ -1118,7 +1631,8 @@
       "precision": "11"
     },
     "statement": "Q11852228$a82a1a2a-40e8-55d7-f086-bc70e729404a",
-    "ordinal": "66"
+    "ordinal": "66",
+    "cabinet": "Q64340086"
   },
   {
     "item": {
@@ -1134,6 +1648,7 @@
       "precision": "11"
     },
     "statement": "Q16986436$13c80eae-44a8-c2b9-d4c4-f5b52331c870",
-    "ordinal": "67"
+    "ordinal": "67",
+    "cabinet": "Q77972346"
   }
 ]
