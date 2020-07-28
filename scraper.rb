@@ -20,34 +20,28 @@ class ListPage < WikipediaOfficeholderPage
   decorator UnspanAllTables
 
   def wanted_tables
-    tables_with_header('hallitus').first
+    tables_with_header('coalition').first
   end
 end
 
 # Each officeholder in the list
 class HolderItem < WikipediaOfficeholderRow
   def columns
-    %w[_ name _ dates cabinet]
+    %w[_ordinal _photo name start_date end_date _duration _color _party _election _coalition cabinet]
   end
 
   def start_date_str
-    dates[0]
+    start_date_cell.text.tidy
   end
 
   def end_date_str
-    dates[1]
-  end
+    return if end_date_cell.text.include? 'Incumbent'
 
-  def empty?
-    tds[0].text.to_i.zero?
-  end
-
-  def dates
-    tds[3].text.tidy.split(/\s*–\s*/)
+    end_date_cell.text.tidy
   end
 
   def dateclass
-    Date::Dotted
+    Date::Partial
   end
 end
 

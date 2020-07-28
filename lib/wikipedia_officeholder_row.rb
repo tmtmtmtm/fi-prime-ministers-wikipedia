@@ -38,6 +38,10 @@ class WikipediaOfficeholderRow < WikipediaTableRow
     link_titles_in(cabinet_cell).first
   end
 
+  def empty?
+    name.to_s.empty? || start_date.to_s.empty?
+  end
+
   private
 
   def name_cell
@@ -46,5 +50,13 @@ class WikipediaOfficeholderRow < WikipediaTableRow
 
   def cabinet_cell
     tds[columns.index('cabinet')]
+  end
+
+  def start_date_cell
+    tds[columns.index('start_date')]
+  end
+
+  def end_date_cell
+    tds[columns.index('end_date')]
   end
 end

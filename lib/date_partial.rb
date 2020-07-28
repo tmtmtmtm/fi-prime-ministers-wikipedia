@@ -8,7 +8,7 @@ class Date
       @str = str.tidy
     end
 
-    def to_s
+    def to_ymd
       # There must be a nicer way to do this
       shorttext.split('-').map { |num| num.rjust(2, '0') }.join('-')
     end
