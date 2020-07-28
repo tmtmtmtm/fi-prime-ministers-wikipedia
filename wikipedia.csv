@@ -1,0 +1,68 @@
+id,name,start_date,end_date,replaces,replaced_by,cabinet,cabinetLabel
+Q209439,Pehr Evind Svinhufvud,1917-11-27,1918-05-27,,Q202171,Q1888842,Pehr Evind Svinhufvud's first senate
+Q202171,Juho Kusti Paasikivi,1918-05-27,1918-11-27,Q209439,Q440166,Q1291664,Juho Kusti Paasikivi's first senate
+Q440166,Lauri Ingman,1918-11-27,1919-04-17,Q202171,Q471286,Q1628568,Lauri Ingman's first cabinet
+Q471286,Kaarlo Castrén,1919-04-17,1919-08-15,Q440166,Q471237,Q1628905,Kaarlo Castrén Cabinet
+Q471237,Juho Vennola,1919-08-15,1920-03-15,Q471286,Q959002,Q1629645,Juho Vennola's first cabinet
+Q959002,Rafael Erich,1920-03-15,1921-04-09,Q471237,Q471237,Q1326909,Rafael Erich's cabinet
+Q471237,Juho Vennola,1921-04-09,1922-06-02,Q959002,Q319444,Q1326348,Juho Vennola's second cabinet
+Q319444,Aimo Cajander,1922-06-02,1922-11-14,Q471237,Q209441,Q4357129,Aimo Cajander's first cabinet
+Q209441,Kyösti Kallio,1922-11-14,1924-01-18,Q319444,Q319444,Q6452994,Kyösti Kallio's first cabinet
+Q319444,Aimo Cajander,1924-01-18,1924-05-31,Q209441,Q440166,Q4357154,Aimo Cajander's second cabinet
+Q440166,Lauri Ingman,1924-05-31,1925-03-31,Q319444,Q609867,Q4357167,Lauri Ingman's second cabinet
+Q609867,Antti Tulenheimo,1925-03-31,1925-12-31,Q440166,Q209441,Q4412223,Antti Tulenheimo's cabinet
+Q209441,Kyösti Kallio,1925-12-31,1926-12-13,Q609867,Q116190,Q8095282,Kyösti Kallio's second cabinet
+Q116190,Väinö Tanner,1926-12-13,1927-12-17,Q209441,Q548108,Q7944323,Väinö Tanner's cabinet
+Q548108,Juho Sunila,1927-12-17,1928-12-22,Q116190,Q675250,Q6305146,Juho Sunila's first cabinet
+Q675250,Oskari Mantere,1928-12-22,1929-08-16,Q548108,Q209441,Q4357539,Oskari Mantere's cabinet
+Q209441,Kyösti Kallio,1929-08-16,1930-07-04,Q675250,Q209439,Q4357395,Kyösti Kallio's third cabinet
+Q209439,Pehr Evind Svinhufvud,1930-07-04,1931-02-18,Q209441,Q548108,Q7160867,Pehr Evind Svinhufvud's second cabinet
+Q548108,Juho Sunila,1931-03-21,1932-12-14,Q209439,Q455716,Q6305147,Juho Sunila's second cabinet
+Q455716,Toivo Mikael Kivimäki,1932-12-15,1936-10-07,Q548108,Q209441,Q7813408,Toivo Mikael Kivimäki's cabinet
+Q209441,Kyösti Kallio,1936-10-07,1937-02-17,Q455716,Q319444,Q4411956,Kyösti Kallio's fourth cabinet
+Q319444,Aimo Cajander,1937-03-12,1939-12-01,Q209441,Q209435,Q4412225,Aimo Cajander's third cabinet
+Q209435,Risto Ryti,1939-12-01,1940-12-19,Q319444,Q728861,Q4357416,Risto Ryti's first cabinet
+Q728861,Johan Wilhelm Rangell,1941-01-03,1943-03-05,Q209435,Q383591,Q4410576,Johan Wilhelm Rangell's cabinet
+Q383591,Edwin Linkomies,1943-03-05,1944-08-08,Q728861,Q609638,Q4357269,Edwin Linkomies' cabinet
+Q609638,Antti Hackzell,1944-08-08,1944-09-21,Q383591,Q1371055,Q4357427,Antti Hackzell's cabinet
+Q1371055,Urho Castrén,1944-09-21,1944-11-17,Q609638,Q202171,Q4357261,Urho Castrén's cabinet
+Q202171,Juho Kusti Paasikivi,1944-11-17,1946-03-09,Q1371055,Q471245,Q1330769,Juho Kusti Paasikivi's second cabinet
+Q471245,Mauno Pekkala,1946-03-26,1948-07-29,Q202171,Q471307,Q1330759,Mauno Pekkala's cabinet
+Q471307,Karl-August Fagerholm,1948-07-29,1950-03-17,Q471245,Q179858,Q1336615,Karl-August Fagerholm's first cabinet
+Q179858,Urho Kekkonen,1950-03-17,1953-11-17,Q471307,Q728501,Q1225824,Urho Kekkonen's first cabinet
+Q728501,Sakari Tuomioja,1953-11-17,1954-05-05,Q179858,Q728830,Q1336721,Sakari Tuomioja's cabinet
+Q728830,Ralf Törngren,1954-05-05,1954-10-20,Q728501,Q179858,Q1336634,Ralf Törngren's cabinet
+Q179858,Urho Kekkonen,1954-10-20,1956-03-03,Q728830,Q471307,Q1338746,Urho Kekkonen's fifth cabinet
+Q471307,Karl-August Fagerholm,1956-03-03,1957-05-27,Q179858,Q708371,Q1338757,Karl-August Fagerholm's second cabinet
+Q708371,V. J. Sukselainen,1957-05-27,1957-11-29,Q471307,Q824517,Q1112382,Vieno Johannes Sukselainen's first cabinet
+Q824517,Rainer von Fieandt,1957-11-29,1958-04-26,Q708371,Q708302,Q1350651,Rainer von Fieandt's cabinet
+Q708302,Reino Kuuskoski,1958-04-26,1958-08-29,Q824517,Q471307,Q1351242,Reino Kuuskoski's cabinet
+Q471307,Karl-August Fagerholm,1958-08-29,1959-01-13,Q708302,Q708371,Q6304290,Karl-August Fagerholm's third cabinet
+Q708371,V. J. Sukselainen,1959-01-13,1961-07-14,Q471307,Q471269,Q6304440,Vieno Johannes Sukselainen's second cabinet
+Q471269,Martti Miettunen,1961-07-14,1962-04-13,Q708371,Q402977,Q6304227,Martti Miettunen's first cabinet
+Q402977,Ahti Karjalainen,1962-04-13,1963-12-18,Q471269,Q1370901,Q4696388,Ahti Karjalainen's first cabinet
+Q1370901,Reino Ragnar Lehto,1963-12-18,1964-09-12,Q402977,Q471278,Q4412105,Reino Ragnar Lehto's cabinet
+Q471278,Johannes Virolainen,1964-09-12,1966-05-27,Q1370901,Q449414,Q6217040,Johannes Virolainen's cabinet
+Q449414,Rafael Paasio,1966-05-27,1968-03-22,Q471278,Q29021,Q10650451,Paasio I cabinet
+Q29021,Mauno Koivisto,1968-03-22,1970-05-14,Q449414,Q699071,Q3374582,Koivisto I cabinet
+Q699071,Teuvo Aura,1970-05-14,1970-07-15,Q29021,Q402977,Q3359402,Teuvo Aura's first cabinet
+Q402977,Ahti Karjalainen,1970-07-15,1971-10-29,Q699071,Q699071,Q25341504,Karjalainen II cabinet
+Q699071,Teuvo Aura,1971-10-29,1972-02-23,Q402977,Q449414,Q10650403,Aura II cabinet
+Q449414,Rafael Paasio,1972-02-23,1972-09-04,Q699071,Q351710,Q10650452,Paasio II cabinet
+Q351710,Kalevi Sorsa,1972-09-04,1975-06-13,Q449414,Q1397964,Q10650462,Sorsa I cabinet
+Q1397964,Keijo Liinamaa,1975-06-13,1975-11-30,Q351710,Q471269,Q10650442,Liinamaa cabinet
+Q471269,Martti Miettunen,1975-11-30,1977-05-15,Q1397964,Q351710,Q10650448,Miettunen II cabinet
+Q351710,Kalevi Sorsa,1977-05-15,1979-04-26,Q471269,Q29021,Q10650461,Sorsa II cabinet
+Q29021,Mauno Koivisto,1979-05-26,1982-01-26,Q351710,Q351710,Q10650440,Koivisto II cabinet
+Q351710,Kalevi Sorsa,1982-02-19,1987-04-30,Q29021,Q273324,Q10650464,Sorsa III cabinet
+Q273324,Harri Holkeri,1987-04-30,1991-04-26,Q351710,Q29024,Q3112126,Holkeri cabinet
+Q29024,Esko Aho,1991-04-26,1995-04-13,Q273324,Q29110,Q3110497,Esko Aho's cabinet
+Q29110,Paavo Lipponen,1995-04-13,2003-04-17,Q29024,Q229517,Q3110332,Paavo Lipponen's first cabinet
+Q229517,Anneli Jäätteenmäki,2003-04-17,2003-06-24,Q29110,Q182043,Q250657,Anneli Jäätteenmäki's Cabinet
+Q182043,Matti Vanhanen,2003-06-24,2010-06-22,Q229517,Q105068,Q81988,Matti Vanhanen's first cabinet
+Q105068,Mari Kiviniemi,2010-06-22,2011-06-22,Q182043,Q57638,Q1579733,Mari Kiviniemi's cabinet
+Q57638,Jyrki Katainen,2011-06-22,2014-06-24,Q105068,Q503143,Q1574803,Jyrki Katainen's cabinet
+Q503143,Alexander Stubb,2014-06-24,2015-05-29,Q57638,Q1711532,Q17227278,Alexander Stubb's cabinet
+Q1711532,Juha Sipilä,2015-05-29,2019-06-06,Q503143,Q11852228,Q19876592,Sipilä cabinet
+Q11852228,Antti Rinne,2019-06-06,2019-12-10,Q1711532,Q16986436,Q64340086,Rinne Cabinet
+Q16986436,Sanna Marin,2019-12-10,,Q11852228,,Q77972346,Marin Cabinet
